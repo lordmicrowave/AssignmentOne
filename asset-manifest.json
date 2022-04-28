@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AssignmentOne/static/css/main.7356479d.css",
+    "main.js": "/AssignmentOne/static/js/main.be84fb53.js",
+    "static/js/787.020cb2b5.chunk.js": "/AssignmentOne/static/js/787.020cb2b5.chunk.js",
+    "static/media/HomepageBanner.png": "/AssignmentOne/static/media/HomepageBanner.c4b90a824d739d7e8c95.png",
+    "static/media/Logos.png": "/AssignmentOne/static/media/Logos.c64f69623eb5d55785dc.png",
+    "static/media/h.png": "/AssignmentOne/static/media/h.5a570e9e0c973c3b5e1f.png",
+    "static/media/Tulip.jpg": "/AssignmentOne/static/media/Tulip.34d3fb3308da2b9feb24.jpg",
+    "static/media/Orchid.jpg": "/AssignmentOne/static/media/Orchid.d2922144eaa90f2a3764.jpg",
+    "static/media/Fuchsia.jpg": "/AssignmentOne/static/media/Fuchsia.169b46bd9212b59be195.jpg",
+    "static/media/Lotus.jpg": "/AssignmentOne/static/media/Lotus.2398b0860521bb1003d2.jpg",
+    "static/media/Snowdrop.jpg": "/AssignmentOne/static/media/Snowdrop.7436de53db0d314fcf85.jpg",
+    "static/media/Dandelion.jpg": "/AssignmentOne/static/media/Dandelion.adb378594ce3af0fe182.jpg",
+    "index.html": "/AssignmentOne/index.html",
+    "main.7356479d.css.map": "/AssignmentOne/static/css/main.7356479d.css.map",
+    "main.be84fb53.js.map": "/AssignmentOne/static/js/main.be84fb53.js.map",
+    "787.020cb2b5.chunk.js.map": "/AssignmentOne/static/js/787.020cb2b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7356479d.css",
+    "static/js/main.be84fb53.js"
+  ]
+}
